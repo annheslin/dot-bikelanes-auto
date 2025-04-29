@@ -1,0 +1,14 @@
+contact:
+  first_name: "<YOUR FIRST NAME>"
+  last_name:  "<YOUR LAST NAME>"
+  email:      "<YOUR EMAIL>"
+  phone:      "<YOUR PHONE>"
+  zip_code:   "<YOUR ZIP>"
+
+submission:
+  borough:               "Manhattan"
+  topic:                 "Bicycle Lanes and Programs"
+  place_type:            "Street or Sidewalk"
+  description_template: |
+    Hi DOT, Please install a protected bike lane on {segment}. Thank you!
+  why_writing:           "Concern"
