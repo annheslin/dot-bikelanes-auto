@@ -1,8 +1,10 @@
 # NYC-DOT Bike‐Lane Request Automator
 
-**What**: Auto-fills DOT’s Bike-Lane request form for you, one row at a time, and pauses so you can solve the reCAPTCHA.
+**What**: I created an automatic (well semi-automatic) way to input values for DOT’s Bike-Lane request form so that you can enter more tickets to the DOT without having to fill in the same fields each time. 
+The program pauses so that you can manually fill in the cross streets, and fill out the reCAPTCHA. 
+You might be wondering, why would I want this? Well, maybe you're like me and want to submit more tickets to the DOT for bike lane requests but find the process of fill out the form manually to be a bit of a pain. 
+There are plenty of improvements to make to this program, including dynamic population of the description with dynamic values, dynamically filling out the search based on a csv of files, among others.
 
-**Why**: Zero $ cost, runs locally on your laptop.  
 
 ---
 
